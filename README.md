@@ -5,4 +5,4 @@ Hidden Search Widget project inspired by Brad Travery :blue_heart:.
 - Css
 - Javascript
 # Project Link
-Visit Here ➡:
+Visit Here ➡: https://poojaa1605.github.io/Hidden-Search-Widget/
